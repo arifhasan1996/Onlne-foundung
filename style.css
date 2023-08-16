@@ -90,6 +90,11 @@ span{
 .singel-service:hover{
     background: #A29BFE;
 }
+
+.singel-service h3{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
 .singel-service:hover h3 {
     color: #fff ;
 }
